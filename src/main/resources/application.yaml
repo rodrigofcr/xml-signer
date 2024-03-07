@@ -1,0 +1,5 @@
+certificate:
+  file:
+    alias: "certificateAlias"
+    path: "src/main/resources/certificate.pfx"
+    password: "certificatePassword"
